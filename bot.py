@@ -4,7 +4,7 @@ import json
 import re
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyALEJwaIWproXfvL5kjufbIRuTFhZCEryg"  # Add your API key here or use environment variable
+GEMINI_API_KEY = ""  # Add your API key here or use environment variable
 
 # Tool definitions for function calling (for instruction purposes)
 available_functions = {
