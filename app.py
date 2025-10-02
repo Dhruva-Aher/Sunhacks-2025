@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for React frontend
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyALEJwaIWproXfvL5kjufbIRuTFhZCEryg"  # Your API key
+GEMINI_API_KEY = ""  # Your API key
 
 # Tool definitions for function calling
 available_functions = {
