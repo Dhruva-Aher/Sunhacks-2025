@@ -58,5 +58,4 @@ It brings intelligence into everyday workflow actions.
 
 ---
 
-## 🧩 Project Structure
 
